@@ -4,7 +4,7 @@
 
 - 🧿 "Veni, vidi, vici"- Júlio César
 - 🎓 Graduated in Analysis and Systems Development in <a href="https://www.wyden.com.br/unidades/faci">Devry Faci</a>.
-- 💼 Web Development, JS Development <a href="https://arrowdigital.app">Arrow Digital</a>
+- 💼 Web Development, JS Development 
 - 👨‍🎓&nbsp; Learning more about automated testing, cryptocurrencies, trading bots in Node.js and Java.
 
 <h3>Tech Skills</h3>
